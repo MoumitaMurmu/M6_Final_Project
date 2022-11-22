@@ -7,6 +7,12 @@
 -webkit-border-radius: 52px 0px 64px 0px;
 background: transparent;
 box-shadow: 10px 10px 10px rgba(0, 0, 0, .5);
+font-family: 'Comforter Brush', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-size: medium;
 }
 /* .valid-feedback, .invalid-feedback{
     display: block;
